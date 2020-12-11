@@ -1,11 +1,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h3 align="center">OpenAPI Code Generation</h3>
+  <h3 align="center">Flyway & Postgres testing with docker test containers</h3>
 
   <p align="center">
-    This project demonstrates how to generate both a server and client from a given
-    OpenAPI 3 specification using the API-first development approach.
+    This project demonstrates how to setup a production-identical database using Flyway and a postgres
+    docker test container for testing with Spring Boot.
     <br />
   </p>
 </p>
